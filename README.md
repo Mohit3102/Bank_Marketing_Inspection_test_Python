@@ -47,7 +47,7 @@ The goal is to prepare the dataset for further modeling or business analysis by 
 - Correlation heatmap to identify relationships between numerical variables
 - Visual support for feature selection and data understanding
 
-## Screenshotes
+## 🖼 Screenshotes
 #  The distribution of the target variable
 <img width="589" height="455" alt="Python_Project_Screenshot_2" src="https://github.com/user-attachments/assets/6ecf2a3b-0503-476b-98d9-49e334b97410" />
 
