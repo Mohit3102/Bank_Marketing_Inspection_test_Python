@@ -11,7 +11,7 @@ The goal is to prepare the dataset for further modeling or business analysis by 
 - Identify unique values and duplicate records
 - Analyze relationships between numerical variables
 - Visualize correlations using a heatmap
-- 
+  
 ## 🧪 Analysis Tasks Performed
 
 ### 1. Data Quality Checks
@@ -28,7 +28,7 @@ The goal is to prepare the dataset for further modeling or business analysis by 
 - Selected numerical columns only
 - Computed correlation matrix
 - Visualized correlations using a heatmap
-- 
+  
 ## 📊 Key Analysis Outputs
 - Statistical summary (mean, median, standard deviation, min, max)
 - Frequency and distribution of categorical variables
@@ -36,7 +36,7 @@ The goal is to prepare the dataset for further modeling or business analysis by 
 - Total duplicate rows in the dataset
 - Correlation matrix for numerical features
 - Correlation heatmap for visual interpretation
-- 
+  
 ## 🛠 Tools & Technologies
 - **Python**
 - **Pandas** – Data manipulation and analysis
@@ -48,10 +48,10 @@ The goal is to prepare the dataset for further modeling or business analysis by 
 - Visual support for feature selection and data understanding
 
 ## Screenshotes
-# Plot the distribution of the target variable
+#  The distribution of the target variable
 <img width="589" height="455" alt="Python_Project_Screenshot_2" src="https://github.com/user-attachments/assets/6ecf2a3b-0503-476b-98d9-49e334b97410" />
 
-# Plot heatmap for visualization
+# Heatmap for visualization
 <img width="990" height="764" alt="Python_Project_Screenshot" src="https://github.com/user-attachments/assets/082a6934-7e50-4e76-bc2b-a915475fd741" />
 
 
